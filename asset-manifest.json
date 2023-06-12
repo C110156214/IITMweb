@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/IITMweb/static/css/main.5d8daece.css",
+    "main.js": "/IITMweb/static/js/main.9e512f92.js",
+    "static/js/787.e6d72910.chunk.js": "/IITMweb/static/js/787.e6d72910.chunk.js",
+    "static/media/lab.png": "/IITMweb/static/media/lab.a7ed5babbb1818a39bf0.png",
+    "static/media/b.jpg": "/IITMweb/static/media/b.507c9d257809fdce6d39.jpg",
+    "static/media/6.jpg": "/IITMweb/static/media/6.893bf6b651867d9b66a0.jpg",
+    "static/media/3.jpg": "/IITMweb/static/media/3.bc8e64c1dd02867f4caa.jpg",
+    "static/media/lab.jpg": "/IITMweb/static/media/lab.bc8e64c1dd02867f4caa.jpg",
+    "static/media/1.jpg": "/IITMweb/static/media/1.f130afbac3dfc91485b9.jpg",
+    "static/media/4.jpg": "/IITMweb/static/media/4.d4ae9554a5e6a67395f4.jpg",
+    "static/media/5.jpg": "/IITMweb/static/media/5.d9e798d47ceeb7cf374b.jpg",
+    "static/media/2.jpg": "/IITMweb/static/media/2.312e39db4a1fdccd2b00.jpg",
+    "static/media/ic.jpg": "/IITMweb/static/media/ic.7598c388e1cbec766ffb.jpg",
+    "static/media/c.jpg": "/IITMweb/static/media/c.2b6fe50ebdb0e5b76cad.jpg",
+    "static/media/ie.jpg": "/IITMweb/static/media/ie.e27364cae349be096639.jpg",
+    "static/media/e.jpg": "/IITMweb/static/media/e.8a85b03b15bffb4851ad.jpg",
+    "static/media/d.jpg": "/IITMweb/static/media/d.76f512681b97d2c7438c.jpg",
+    "static/media/f.jpg": "/IITMweb/static/media/f.cf7145b30dd2a4f3e45a.jpg",
+    "static/media/a.jpg": "/IITMweb/static/media/a.1443c5095ae3c00eae72.jpg",
+    "static/media/im.jpg": "/IITMweb/static/media/im.38ad72716716a1f0e4fd.jpg",
+    "static/media/teacher.jpg": "/IITMweb/static/media/teacher.5220b3620f77f3fefdb9.jpg",
+    "static/media/research.png": "/IITMweb/static/media/research.9f6fca9191d60d07a597.png",
+    "static/media/meeting.png": "/IITMweb/static/media/meeting.92d529151846756fc6bd.png",
+    "static/media/reward.png": "/IITMweb/static/media/reward.378ca97023e70374fb4f.png",
+    "static/media/contact.png": "/IITMweb/static/media/contact.986eb24a5958ed5adc1e.png",
+    "static/media/thesis.png": "/IITMweb/static/media/thesis.c2779d342c96e82c4853.png",
+    "index.html": "/IITMweb/index.html",
+    "main.5d8daece.css.map": "/IITMweb/static/css/main.5d8daece.css.map",
+    "main.9e512f92.js.map": "/IITMweb/static/js/main.9e512f92.js.map",
+    "787.e6d72910.chunk.js.map": "/IITMweb/static/js/787.e6d72910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8daece.css",
+    "static/js/main.9e512f92.js"
+  ]
+}
